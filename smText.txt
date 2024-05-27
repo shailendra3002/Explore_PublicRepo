@@ -1,2 +1,3 @@
 Hi 
 this is smText File
+Git Pull sptes
