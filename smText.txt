@@ -1,2 +1,3 @@
 Hi 
 this is smText File
+Now Editing the file for Git
